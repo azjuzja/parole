@@ -1,0 +1,39 @@
+#include <iostream>
+using namespace std;
+
+int main() {
+	//
+	//
+	//int i = 0;
+	//	string username = "arzu",u1;
+	//
+	//	do {
+	//			i++;
+	//			cin >> u1;
+	//			if (u1 == username) { exit(0); }
+	//	} while (i < 5);
+	//	cout << "out of attemps"; 
+	//
+	//		 i = 0;
+	//	do {
+	//			i++;
+	//		cout << i << " " << i * i * i<<endl;
+	//
+	//
+	//		} while (i < 100);
+	//
+	//
+	//		return 0;
+	//}
+	int number; cin >> number;
+	if (number >= 20) { cout << "Correct input" << endl; }
+	else cout << "Incorrect input" << endl;
+	cout << "End of program";
+
+
+	if (number >= 100||number <= 30) { cout << "Correct input" << endl; }
+	else cout << "Incorrect input" << endl;
+	cout << "End of program";
+
+
+}

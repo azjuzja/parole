@@ -1,0 +1,43 @@
+#include <iostream>
+using namespace std;
+//string t;
+//int main(){
+//
+//do {
+//	cin >> t;
+//	cout << t << endl;
+//	
+//		
+//}while (t != "Stop");
+//     
+//
+//
+//string parole;
+//
+//string ievade;
+//int atlikuso_iespeju_skaits = 5;
+//while (atlikuso_iespeju_skaits > 0) {
+//	cout << "Ievadiet paroli:";
+//	cin >> ievade;
+//	if (ievade == parole) {
+//		cout << "Parole ir pareiza!" << endl;
+//		break;
+//	}
+//	else {
+//		cout << "Parole nav pareiza. Atlikušo iespējo skaits: " << atlikuso_iespeju_skaits - 1 << endl;
+//		atlikuso_iespeju_skaits--;
+//	}
+//}
+//
+//if (atlikuso_iespeju_skaits == 0) {
+//	cout << "Atlikušo iespeju skaits ir beidzis. Piekļuve ir aizliegta." << endl;
+//}
+//
+//
+//return 0;
+//}
+
+int main() {
+	int result = 1000;
+	while 
+}
